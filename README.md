@@ -29,7 +29,9 @@ Credit to Robert Peip.
 
 ### NeoGeo
 
-Available via these forum posts, [here](https://misterfpga.org/viewtopic.php?p=14528#p14528) and [here](https://misterfpga.org/viewtopic.php?p=14535#p14535).
+Available via this [forum post](https://misterfpga.org/viewtopic.php?p=59591#p59591).
+
+Note: This supposedly only works well for Metal Slug and is known to break other titles.
 
 These are quite outdated, please let me know if there are newer ones available.
 
