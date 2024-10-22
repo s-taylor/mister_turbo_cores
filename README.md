@@ -13,7 +13,8 @@ These cores are no longer cycle accurate and may cause issues in certain games, 
 
 ### PSX
 
-These are available via Robert Piep's [github](https://github.com/RobertPeip/PSX_MiSTer/tree/main/releases)  
+These are available via Robert Piep's [github](https://github.com/RobertPeip/PSX_MiSTer/tree/main/releases)
+
 Download the latest `PSX2XCPU_YYYYMMDD.rbf` file.
 
 ### N64
@@ -21,6 +22,8 @@ Download the latest `PSX2XCPU_YYYYMMDD.rbf` file.
 ### NeoGeo
 
 ### IREM
+
+Available via MiSTer discord, see this [post](https://discord.com/channels/647909397477195803/1089922738682089554/1108604187945730049).
 
 ---
 
