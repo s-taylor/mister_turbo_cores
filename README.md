@@ -33,7 +33,7 @@ Available via this [forum post](https://misterfpga.org/viewtopic.php?p=59591#p59
 
 Note: This supposedly only works well for Metal Slug and is known to break other titles.
 
-These are quite outdated, please let me know if there are newer ones available.
+This is quite outdated, please let me know if there are newer ones available.
 
 ### IREM
 
