@@ -9,7 +9,7 @@ These cores are no longer cycle accurate and may cause issues in certain games, 
 
 ---
 
-## Known cores
+## Known turbo cores
 
 ### PSX
 
