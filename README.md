@@ -19,7 +19,13 @@ Download the latest `PSX2XCPU_YYYYMMDD.rbf` file.
 
 ### N64
 
+Available via the [Update All](https://github.com/theypsilon/Update_All_MiSTer) script
+
+Also can be downloaded from [github](https://github.com/MiSTer-devel/N64_MiSTer/tree/main/releases_turbo)
+
 ### NeoGeo
+
+
 
 ### IREM
 
