@@ -27,6 +27,7 @@ Also can be downloaded from [github](https://github.com/MiSTer-devel/N64_MiSTer/
 
 Available via these forum posts, [here](https://misterfpga.org/viewtopic.php?p=14528#p14528) and [here](https://misterfpga.org/viewtopic.php?p=14535#p14535).
 
+These are quite outdated, please let me know if there are newer ones available.
 
 ### IREM
 
