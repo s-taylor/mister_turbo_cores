@@ -17,11 +17,15 @@ These are available via Robert Piep's [github](https://github.com/RobertPeip/PSX
 
 Download the latest `PSX2XCPU_YYYYMMDD.rbf` file.
 
+Credit to Robert Peip
+
 ### N64
 
 Available via the [Update All](https://github.com/theypsilon/Update_All_MiSTer) script
 
 Also can be downloaded from [github](https://github.com/MiSTer-devel/N64_MiSTer/tree/main/releases_turbo)
+
+Credit to Robert Peip
 
 ### NeoGeo
 
@@ -33,7 +37,9 @@ These are quite outdated, please let me know if there are newer ones available.
 
 Available via MiSTer discord, see this [post](https://discord.com/channels/647909397477195803/1089922738682089554/1108604187945730049).
 
-Also available [here](https://github.com/s-taylor/mister_turbo_cores/blob/main/files/TURBO_IremM92.rbf)
+Also available [https://github.com/s-taylor/mister_turbo_cores/blob/main/files/TURBO_IremM92.rbf](https://raw.githubusercontent.com/s-taylor/mister_turbo_cores/master/files/TURBO_IremM92.rbf)
+
+Credit to wickerwaka
 
 ---
 
