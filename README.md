@@ -33,6 +33,8 @@ These are quite outdated, please let me know if there are newer ones available.
 
 Available via MiSTer discord, see this [post](https://discord.com/channels/647909397477195803/1089922738682089554/1108604187945730049).
 
+Also available [here](https://github.com/s-taylor/mister_turbo_cores/blob/main/files/TURBO_IremM92.rbf)
+
 ---
 
 ## Contribute
