@@ -25,6 +25,7 @@ Also can be downloaded from [github](https://github.com/MiSTer-devel/N64_MiSTer/
 
 ### NeoGeo
 
+Available via these forum posts, [here](https://misterfpga.org/viewtopic.php?p=14528#p14528) and [here](https://misterfpga.org/viewtopic.php?p=14535#p14535).
 
 
 ### IREM
