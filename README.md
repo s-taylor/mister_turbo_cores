@@ -21,9 +21,7 @@ Credit to Robert Peip
 
 ### N64
 
-Available via the [Update All](https://github.com/theypsilon/Update_All_MiSTer) script.
-
-Also can be downloaded from [github](https://github.com/MiSTer-devel/N64_MiSTer/tree/main/releases_turbo).
+Available from [github](https://github.com/MiSTer-devel/N64_MiSTer/tree/main/releases_turbo).
 
 Credit to Robert Peip.
 
